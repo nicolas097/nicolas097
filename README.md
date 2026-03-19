@@ -1,16 +1,46 @@
-<h1 class="text-center">I there 👋 </h1>
+# Hey👋, I am Nicolás
 
-<!--
-**nicolas097/nicolas097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 About me
 
-Here are some ideas to get you started:
+I've been transforming coffee ☕ into code for a long time now. I'm passionate about solving problems and I'm a lifelong learner—constantly leveling up my skills through self-study and by learning from others in the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💻 **Versatile Developer:** I enjoy building end-to-end solutions, from robust backends to interactive frontends.
+- 🧠 **Current Focus:** Deep diving into **Next.js**, **LangChain**, and **GCP** to build scalable AI-powered applications.
+- ⚙️ **Tech Enthusiast:** I thrive on exploring emerging technologies and managing environments like **Ubuntu Server**.
+- 🌐 **Languages:** Spanish (Native) | **English (A2 - Elementary Level)**.
+
+##
+
+<div align="left">
+
+### 🛠️ Tech Stack
+
+**Backend & Databases**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,mysql,postgres,sqlite)](https://skillicons.dev)
+
+**Frontend & Web Libraries**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind)](https://skillicons.dev)
+
+**Environment**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,git,linux)](https://skillicons.dev)
+
+**Dev Tools**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+
+**IDEs & Productivity**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+
+</div>
+
+### 📊 GitHub Activities
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas097&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas097&layout=compact&langs_count=6&theme=dracula" />
+</div>
