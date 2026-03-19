@@ -7,9 +7,7 @@ I've been transforming coffee ☕ into code for a long time now. I'm passionate 
 
 - 💻 **Versatile Developer:** I enjoy building end-to-end solutions, from robust backends to interactive frontends.
 - 🧠 **Current Focus:** Deep diving into **Next.js**, **LangChain**, and **GCP** to build scalable AI-powered applications.
-- ⚙️ **Tech Enthusiast:** I thrive on exploring emerging technologies and managing environments like **Ubuntu Server**.
-- 🌐 **Languages:** Spanish (Native) | **English (A2 - Elementary Level)**.
-
+- ⚙️ **Systems Management:** Focused on implementing emerging technologies and managing Linux-based environments like **Ubuntu Server**.
 ##
 
 <div align="left">
